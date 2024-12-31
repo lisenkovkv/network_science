@@ -1,1 +1,2 @@
-# network_science
+# Наука о сетях
+- Network Science
