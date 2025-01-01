@@ -1,2 +1,3 @@
 # Наука о сетях
-- Network Science
+- [Barabasi Network Science](/NetworkScienceBarabasi/__barabasi.md)
+- 
