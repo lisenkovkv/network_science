@@ -1,0 +1,4 @@
+- https://enrondata.org/en/latest/ EnronData.org extends the endless possibilities of the publically released Enron data for research and development through data analysis and reconstruction, specifically, the data released by the Federal Energy Regulatory Commission (FERC).
+- https://www.kaggle.com/datasets/wcukierski/enron-email-dataset
+- https://www.cs.cmu.edu/~./enron/
+- 
